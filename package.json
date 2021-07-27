@@ -1,5 +1,5 @@
 {
-  "name": "allure_report_serve",
+  "name": "serve_allure_report",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
